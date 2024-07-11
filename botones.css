@@ -1,0 +1,131 @@
+@media (max-width:600px) {
+    #boton1 {
+        width: calc(33% - 2px);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton2 {
+        width: calc(33% - 2px);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton3 {
+        width: calc(33% - 2px);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton4 {
+        width: calc(33% - 2px);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton5 {
+        width: calc(33% - 2px);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+
+
+}
+
+#contenedor1 {
+    display: flexbox;
+}
+
+@media (min-width:600px) {
+    #boton1 {
+        width: calc(16%);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton2 {
+        width: calc(16%);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton3 {
+        width: calc(16%);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton4 {
+        width: calc(16%);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton5 {
+        width: calc(16%);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+
+}
+
+#contenedor1 {
+    display: flexbox;
+}
+
+
+@media (max-width:320px) {
+    #boton1 {
+        width: calc(100%);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton2 {
+        width: calc(100%);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton3 {
+        width: calc(100%);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton4 {
+        width: calc(100%);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+    #boton5 {
+        width: calc(100%);
+        height: auto;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+    }
+
+
+
+}
+
+#contenedor1 {
+    display: flexbox;
+}
